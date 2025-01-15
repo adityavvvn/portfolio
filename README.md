@@ -14,7 +14,7 @@ I am a 3rd-year B.Tech student specializing in **Computer Science with Artificia
 ## Education
 - **Amrita Vishwa Vidyapeetham** - Chennai, Tamil Nadu  
   *Bachelor of Technology in Computer Science with Artificial Intelligence*  
-  **October 2022 - Current** | **CGPA:** 7.34  
+  **October 2022 - Current** 
 
 ---
 
