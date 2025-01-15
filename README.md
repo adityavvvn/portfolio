@@ -1,37 +1,21 @@
 # V. V. V. N. Uday Aditya
 
 ## About Me
-I am a 3rd-year B.Tech student specializing in **Computer Science with Artificial Intelligence** at Amrita Vishwa Vidyapeetham, Chennai. Passionate about programming, machine learning, and developing impactful AI-based solutions, I strive to merge technology with creativity to build innovative projects.
+I am a 3rd-year B.Tech student specializing in **Computer Science with Artificial Intelligence** at Amrita Vishwa Vidyapeetham, Chennai. Passionate about programming, machine learning, and leveraging technology to develop impactful AI-based solutions, I aim to contribute meaningfully to the field of artificial intelligence and data science.
 
-- **Email:** adityavvvn@gmail.com  
-- **Phone:** +91 95732 71900  
-- **Location:** Chennai, Tamil Nadu  
+---
 
-[GitHub](#) | [LinkedIn](#)
+## Technical Skills
+- **Programming Languages:** Python, SQL, C, Java, HTML, CSS  
+- **Tools and Frameworks:** MATLAB, JavaScript, Explainable AI, Machine Learning  
+- **Other Skills:** Data Structures and Algorithms, Robotics, IoT  
 
 ---
 
 ## Education
-- **Amrita Vishwa Vidyapeetham** - Chennai, Tamil Nadu  
-  *Bachelor of Technology in Computer Science with Artificial Intelligence*  
+- **B.Tech in Computer Science with Artificial Intelligence**  
+  *Amrita Vishwa Vidyapeetham, Chennai*  
   **October 2022 - Current** 
-
----
-
-## Skills
-### Programming Languages:
-- Python
-- C
-- HTML
-- CSS
-- Java
-- JavaScript
-- Data Structures and Algorithms
-- Machine Learning  
-
-### Libraries/Frameworks:
-- MATLAB
-- Scratch  
 
 ---
 
@@ -39,50 +23,35 @@ I am a 3rd-year B.Tech student specializing in **Computer Science with Artificia
 
 ### 1. Image Encryption and Decryption
 - **Technology:** Python, SHA-256, AES  
-- Developed an algorithm for secure image encryption and decryption using SHA-256 and AES to ensure data integrity and privacy.  
+- Developed an algorithm for secure image encryption and decryption using SHA-256 and AES, ensuring data integrity and privacy.  
 [Project Link](#)
-
----
 
 ### 2. Vehicle Anomaly Detection
 - **Technology:** Python, Machine Learning, Sensors  
-- Utilized temperature, sound, and vibration sensors to extract engine data and employed machine learning for accurate anomaly detection, enabling predictive maintenance.  
+- Utilized multi-sensor data (temperature, sound, vibration) with ML models for accurate anomaly detection, improving predictive maintenance.  
 [Project Link](#)
 
----
-
-### 3. Interactive Blood Donation Web App
-- **Technology:** HTML, CSS, JavaScript  
-- Built a web application displaying India's state-wise blood donation contact information for efficient access to services nationwide.  
-[Project Link](#)
-
----
-
-### 4. Chronic Kidney Disease Prediction
+### 3. Chronic Kidney Disease Prediction
 - **Technology:** Python, Explainable AI  
-- Leveraged machine learning and interpretable AI models to predict the likelihood of CKD based on simulated health data.  
+- Used machine learning algorithms to predict CKD risk, enabling better insights into contributing factors and personalized healthcare solutions.  
 [Project Link](#)
 
----
-
-### 5. Integrated Healthcare Robotics
-- **Technology:** Python, HTML, CSS, JavaScript, Webots  
-- Combined Voice AI, Chatbot-3.5, and OP Booking Solutions for seamless healthcare interaction and robotic assistance.  
+### 4. Integrated Healthcare Robotics
+- **Technology:** Python, Webots, Voice AI  
+- Developed a system integrating Voice AI, Chatbot-3.5, and robotic booking solutions for efficient healthcare interactions and patient care.  
 [Project Link](#)
 
----
-
-### 6. Smart Home Luminance
+### 5. Smart Home Luminance
 - **Technology:** C, IoT, Bluetooth  
-- Developed an IoT-based system to automate light control based on ambient luminance and included a mobile app for remote control.  
+- Created an IoT solution to automate light control based on luminance levels, with a mobile app for remote management.  
 [Project Link](#)
 
 ---
 
-### 7. Disease Prediction Using Machine Learning
-- **Technology:** Python, Explainable AI  
-- Created algorithms for analyzing medical data to predict various diseases, enabling proactive healthcare management.  
-[Project Link](#)
+## Talks & Lectures
+- **Dimensionality Reduction:** Guest lecture for [specific audience or event]  
+- **Fourier and Wavelet Transforms:** Presented at [specific occasion]  
+- **Optimization in AI:** Delivered an introductory seminar on optimization techniques in AI systems  
 
 ---
 
@@ -91,12 +60,14 @@ I am a 3rd-year B.Tech student specializing in **Computer Science with Artificia
 - **Introduction to Artificial Intelligence** - LinkedIn Learning  
 - **Artificial Intelligence Fundamentals** - IBM SkillsBuild  
 - **Python Essentials 1** - Cisco  
-- **Python Language** - GUVI (Google for Education Partner)  
 - **Cybersecurity Fundamentals** - IBM SkillsBuild  
 
 ---
 
-## Honors & Leadership
-- **3rd Prize** at Tantrotsav - Amrita Vishwa Vidyapeetham  
-- **Designer Head** of TRINETRA & Photography Club - Led design initiatives for college events and exhibitions.  
-- **Cultural Head** of Anandhamayi House - Organized and led cultural activities for intra-college competitions.  
+
+
+---
+
+## Portfolio & Contact
+- [GitHub](#)  
+- [LinkedIn](#)  
